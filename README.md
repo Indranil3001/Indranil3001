@@ -37,25 +37,13 @@ An econometric analysis of the relationship between economic growth and greenhou
 
 ---
 
-## 🌱 What I'm Up To
+## What I'm Up To
 
 - Building **econometric models** to study climate and emissions policy
 - Deepening my knowledge of **machine learning** and **statistical modeling**
 - Exploring **reinforcement learning** (Q-Learning agents)
 - Working with real-world datasets — from GHG emissions to NYC taxi trips
 - Always down to talk **football** ⚽
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indranil3001&show_icons=true&theme=tokyonight&hide_border=true" alt="Indranil's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil3001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
