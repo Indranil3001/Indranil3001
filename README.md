@@ -47,12 +47,24 @@ An econometric analysis of the relationship between economic growth and greenhou
 
 ---
 
-🤝 Let's Connect
+## 📊 GitHub Stats
 
-💬 Open to collaborating on data science, ML, or analytics projects
-📫 Reach out via GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Indranil3001&show_icons=true&theme=tokyonight&hide_border=true" alt="Indranil's GitHub Stats" />
+</p>
 
-Show Image
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil3001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💬 Open to collaborating on **data science**, **ML**, or **analytics** projects
+- 📫 Reach out via [GitHub](https://github.com/Indranil3001)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indranil3001)
 
 ---
 
