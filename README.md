@@ -13,10 +13,23 @@ I'm a data enthusiast passionate about **football** and **data analysis**, curre
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Project
+
+### [Carbon Economics: Testing the Environmental Kuznets Curve](https://github.com/Indranil3001/AI-Appliction-EKC)
+
+An econometric analysis of the relationship between economic growth and greenhouse gas emissions using panel data from the world's **30 largest emitters (1999–2024)**. Combines data from EDGAR, World Bank, and UN sources to test the EKC hypothesis with Pooled OLS and Fixed Effects Panel models.
+
+**Key findings:** EKC turning point at ~$46,398 GDP per capita • Cubic model outperforms quadratic (AIC 1171 vs 1193) • Post-Paris Agreement policy shift confirmed • Interactive Plotly visualizations
+
+`Python` `statsmodels` `linearmodels` `pandas` `plotly` `Jupyter Notebook`
+
+---
+
+## 📂 All Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**AI-Appliction-EKC**](https://github.com/Indranil3001/AI-Appliction-EKC) | Environmental Kuznets Curve — Econometric Panel Analysis | Jupyter Notebook |
 | [**data_mining**](https://github.com/Indranil3001/data_mining) | Movie Recommendation System | Jupyter Notebook |
 | [**data_integration**](https://github.com/Indranil3001/data_integration) | NYC Taxi Trip Analysis (May 2025) | Jupyter Notebook |
 | [**AIstudio**](https://github.com/Indranil3001/AIstudio) | Connect-T Game with Q-Learning | Python |
@@ -26,29 +39,18 @@ I'm a data enthusiast passionate about **football** and **data analysis**, curre
 
 ## 🌱 What I'm Up To
 
+- Building **econometric models** to study climate and emissions policy
 - Deepening my knowledge of **machine learning** and **statistical modeling**
 - Exploring **reinforcement learning** (Q-Learning agents)
-- Working with real-world datasets — from NYC taxi trips to heart disease research
+- Working with real-world datasets — from GHG emissions to NYC taxi trips
 - Always down to talk **football** ⚽
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indranil3001&show_icons=true&theme=tokyonight&hide_border=true" alt="Indranil's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil3001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
 ## 🤝 Let's Connect
 
 - 💬 Open to collaborating on **data science**, **ML**, or **analytics** projects
-- 📫 Reach out via [GitHub](https://github.com/Indranil3001)
+- 📫 Reach out via [GitHub](https://github.com/Indranil3001) [LinkedIn](www.linkedin.com/in/indranil3001)
 
 ---
 
